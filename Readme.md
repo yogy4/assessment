@@ -29,9 +29,9 @@ $ psql
 
 # setelah itu lakukan migrasi
 
-$ python manage.py create_db
-$ python manage.py db init
-$ python manage.py db migrate
+1. $ python manage.py create_db
+2. $ python manage.py db init
+3. $ python manage.py db migrate
 
 # terakhir jalankan aplikasi
 
